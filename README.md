@@ -2,9 +2,6 @@
 
 I'm a full-stack developer passionate about creating solutions that positively impact people's everyday lives.
 
-<details>
-  <summary> See more about me</summary>
-  
 ## Tech Stack
 
 ![React](https://img.shields.io/badge/React-20232a?style=for-the-badge&logo=react)
@@ -17,12 +14,10 @@ I'm a full-stack developer passionate about creating solutions that positively i
 
 ## Hobbies
 
-- 🛼 Outdoor roller skating
-- :pencil2: Drawing
+- 🛼 Outdoor roller skating (nothing beats a sunset skate sesh 🌄)
+- :pencil2: Drawing, 🖌️ painting
 - 📚 Reading
 - 🎵 Listening to music and podcasts
-
-</details>
 
 <!--
 **strallia/strallia** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
