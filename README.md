@@ -1,7 +1,10 @@
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&duration=2000&pause=1000&color=F7F7F7&repeat=false&width=435&lines=Hi+there+%F0%9F%91%8B+I'm+Strallia+Chao)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&duration=2000&pause=1000&color=F7F7F7&repeat=false&width=435&lines=Hi+there+%F0%9F%91%8B+I'm+Strallia+Chao)](https://git.io/typing-svg) 
 
 I'm a full-stack developer passionate about creating technologies that positively impact people's everyday lives.
 
+<details>
+  <summary> See more about me</summary>
+  
 ## Tech Stack
 
 ![React](https://img.shields.io/badge/React-20232a?style=for-the-badge&logo=react)
@@ -18,6 +21,8 @@ I'm a full-stack developer passionate about creating technologies that positivel
 - :pencil2: Drawing
 - 📚 Reading
 - 🎵 Listening to music and podcasts
+
+</details>
 
 <!--
 **strallia/strallia** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
