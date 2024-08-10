@@ -8,9 +8,10 @@ I'm a full-stack developer passionate about creating solutions that positively i
 ![Express.js](https://img.shields.io/badge/express-20232a?style=for-the-badge&logo=express)
 ![JavaScript](https://img.shields.io/badge/javascript-20232a?style=for-the-badge&logo=javascript)
 ![Node.js](https://img.shields.io/badge/Node.js-20232a?style=for-the-badge&logo=node.js)
+![PostgreSQL](https://img.shields.io/badge/PostgreSQL-20232a?style=for-the-badge&logo=postgresql)
 ![Python](https://img.shields.io/badge/python-20232a?style=for-the-badge&logo=python)
-![Static Badge](https://img.shields.io/badge/html-20232a?style=for-the-badge&logo=html5)
-![CSS](https://img.shields.io/badge/css-20232a?style=for-the-badge&logo=css3)
+![HTML](https://img.shields.io/badge/html5-20232a?style=for-the-badge&logo=html5)
+![CSS](https://img.shields.io/badge/css3-20232a?style=for-the-badge&logo=css3)
 
 ## Hobbies
 
